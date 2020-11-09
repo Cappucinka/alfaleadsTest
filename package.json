@@ -1,0 +1,17 @@
+{
+  "name": "test-inline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "gulp sass html css images js",
+    "watch": "gulp watch"
+  },
+  "author": "Salabay V <salabay.v@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0"
+  }
+}
